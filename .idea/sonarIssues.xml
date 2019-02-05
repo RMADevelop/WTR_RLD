@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/7cdee3868fb261bd8f34be8b7ce2f883/jars/classes.jar!/com/google/android/gms/maps/MapView.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a675993d76f02a42ea75b750c83f31b3/jars/classes.jar!/android/support/v4/app/Fragment.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Sdelay-Gorod/app/src/main/java/com/makecity/client/app/AppDelegate.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Sdelay-Gorod/core/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Sdelay-Gorod/core/src/main/java/com/makecity/core/presentation/view/BaseFragments.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../WTR_APP/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../WTR_APP/app/src/main/java/com/wtr/wtr_app/di/ComponentManager.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../WTR_APP/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../WTR_APP/core/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/wtr/wtr_rld/WtrApp.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/wtr/wtr_rld/di/ApplicationDependency.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/wtr/wtr_rld/di/ApplicationDependency.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/wtr/wtr_rld/di/ComponentInjector.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/wtr/wtr_rld/presentation/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/wtr/wtr_rld/presentation/map/BaseMapFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/wtr/wtr_rld/presentation/map/MapFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/wtr/wtr_rld/presentation/map/MapFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_map.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/build/generated/source/r/debug/com/wtr/core/R.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/com/wtr/core/di/scopes.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/com/wtr/core/di/test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/com/wtr/core/presentation/main/BaseActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/com/wtr/core/presentation/main/BaseFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/com/wtr/core/presentation/map/BaseFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/com/wtr/core/presentation/map/BaseMapFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/com/wtr/core/presentation/map/BaseMapFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/clevrmobility/android/R.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/build/generated/source/apt/debug/com/clevrmobility/android/domain/auth/checking/AutoValue_CheckingState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/build/generated/source/apt/debug/com/clevrmobility/android/domain/vehicles/VehiclesIntentInteractor_Factory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/scenario/resources/com/clevrmobility/android/common/vehicleUnbookedResponse.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/Clevr.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/data/core/ClevrApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/data/geozones/GeoZoneDataMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/data/geozones/GeoZoneRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/data/geozones/GeoZonesNetSource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/auth/checking/CheckingConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/auth/checking/CheckingDomainModule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/auth/checking/CheckingNavigationIntent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/auth/checking/CheckingState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/auth/checking/DefaultCheckingStateProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/auth/checking/NavigationIntent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/auth/sms/ActivateIntent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/auth/verify/VerifyIntent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/common/MainErrorHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/core/error/GeoZoneException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/core/error/VehicleException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/geozones/GeoZone.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/home/NavigationIntent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/main/MainInteractor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/main/MainModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/main/ScreenBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/navigation/CheckingScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/navigation/HomeScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/profile/Profile.java">
+          <value>
+            <set>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AWhW5BpYAsUfTrCKREbA" />
+                <option name="line" value="1" />
+                <option name="message" value="1 duplicated blocks of code must be removed." />
+                <option name="ruleKey" value="common-java:DuplicatedBlocks" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+            </set>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/profile/ProfileStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/serialnumber/ClearSerialNumberIntent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/splash/SplashNavigationIntent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/vehicles/VehicleItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/domain/vehicles/VehiclesIntentInteractor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/auth/checking/CheckingFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/auth/checking/CheckingFragmentModule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/auth/checking/CheckingParcelable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/auth/checking/CheckingParcelableMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/auth/checking/CheckingStateMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/auth/checking/CheckingViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/auth/phone/PhoneFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/auth/verify/VerifyViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/common/BaseFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/finishingtrip/FinishingTripFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/finishingtrip/FinishingTripViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/home/BaseMapFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/home/BookButtonsDelegate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/home/GeoZoneDelegate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/home/HomeFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/home/HomeMapInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/home/HomeParcelable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/home/RideInfoBottomSheetDelegate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/main/MainNavigator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/navigation/CheckingScreenFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/navigation/HomeScreenFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/navigation/SplashScreenFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/java/com/clevrmobility/android/presentation/serialnumber/SerialNumberFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/res/layout/fragment_stop_trip.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/res/layout/ride_bottom_sheet.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/test/java/com/clevrmobility/android/domain/serialnumber/ClearSerialNumberIntentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/test/java/com/clevrmobility/android/presentation/base/BaseFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/test/java/com/clevrmobility/android/presentation/base/BaseFragmentTetst.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/test/java/com/clevrmobility/android/presentation/base/BaseInjector.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/test/java/com/clevrmobility/android/presentation/finishingtrip/FinishingTripFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/test/java/com/clevrmobility/android/presentation/home/HomeFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/app/src/test/java/com/clevrmobility/android/presentation/serialnumber/SerialNumberFragmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../clevr/clevr-android/architecture-components/architecturecomponents/src/main/java/com/a65apps/architecturecomponents/presentation/fragment/ViewModelFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

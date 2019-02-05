@@ -1,0 +1,32 @@
+apply plugin: 'com.android.library'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+
+android {
+    compileSdkVersion 28
+
+    defaultConfig {
+        minSdkVersion versions.minSdk
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+    }
+}
+
+dependencies {
+    api dependency.support.constraint
+    api dependency.support.appCompat
+    api dependency.support.support
+
+    api dependency.google.location
+    api dependency.google.map
+    api dependency.google.mapUtils
+    api dependency.google.dagger
+    kapt dependency.google.daggerProcessor
+    compile "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+}
+
+kapt {
+    generateStubs = true
+}
